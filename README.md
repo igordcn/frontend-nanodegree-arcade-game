@@ -1,12 +1,12 @@
 # Classic Arcade Game Clone Project
 
-Projeto baseado no [Classic Arcade Game](https://github.com/HananeMoshe/frontend-nanodegree-arcade-game) da Udacity
+Projeto baseado no [Classic Arcade Game](https://github.com/udacity/frontend-nanodegree-arcade-game) da Udacity
 
 ## Tabela de Conteúdos
 
-- [Instruções](#instructions)
-  - [Como rodar](#comorodar)
-  - [Como jogar](#comojogar)
+- [Instruções](#instruções)
+  - [Como rodar](#como-rodar)
+  - [Como jogar](#como-jogar)
 
 ## Instruções
 
