@@ -1,20 +1,22 @@
 # Classic Arcade Game Clone Project
 
-## Table of Contents
+Projeto baseado no [Classic Arcade Game](https://github.com/HananeMoshe/frontend-nanodegree-arcade-game) da Udacity
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+## Tabela de Conteúdos
 
-## Instructions
+- [Instruções](#instructions)
+  - [Como rodar](#comorodar)
+  - [Como jogar](#comojogar)
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+## Instruções
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+### Como rodar
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+Após clonar ou descompactar o zip do projeto, abra o arquivo index.html em um navegador e o jogo se iniciará
+automaticamente.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+### Como jogar
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+O jogador pode movimentar o avatar com as setas do teclado. O objetivo do jogo é chegar até a água evitando os
+inimigos (insetos) que aparecerão pelo caminho. Após colidir (tocar) um inimigo, o jogador votará para o ponto
+de início.
